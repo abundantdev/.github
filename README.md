@@ -1,1 +1,3 @@
-# .github
+![abundant-cover-image-README](https://github.com/user-attachments/assets/35abd8e0-86d9-40ee-99a3-209b74512673)
+
+_Abundant.dev is a specialized technical content agency that helps developer tool companies turn their docs into powerful growth engines. We craft high-quality, user-centric docs and guides that drive product adoption, increase user engagement, and boost conversions. Our research-heavy, docs-as-code approach has helped companies like Amplication and Crossmint double their documentation engagement and increase onboarded developers by 1.4x. Let us turn your technical content into a valuable asset that speaks directly to developers and accelerates your product's success_. 🚀
